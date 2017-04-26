@@ -11,15 +11,15 @@ Programming Languages/Technologies
 -CSS   
 -OOP
 -MVC (Model View Controller) 
--SVN, GIT 
+-SVN, GIT  
 Frameworks 
--CakePHP
+-CakePHP  
 Databases  
 -MySQL 
 Web Applications
 -WordPress
 -Zen Cart
--Linux Administration
+-Linux Administration  
 Security
 -Metasploit
 -Manual Security Testing 
