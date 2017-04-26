@@ -1,38 +1,38 @@
 # Matthew “Wyatt” Morgan
-480.326.2532
+480.326.2532  
 wyatt@wmgraphicdesign.com
 
 ㅡ
 **SKILLS**
 
-Programming Languages/Technologies 
-PHP(5. PHP and PHP with OOP (more than 5 year of experience) 
-JavaScript (more than 2 years of experience) 
-HTML 
-MYSQL  
-CSS   
-OOP
-MVC (Model View Controller) 
-SVN, GIT 
+Programming Languages/Technologies
+-PHP(5. PHP and PHP with OOP (more than 5 year of experience) 
+-JavaScript (more than 2 years of experience) 
+-HTML 
+-MYSQL  
+-CSS   
+-OOP
+-MVC (Model View Controller) 
+-SVN, GIT 
 Frameworks 
-CakePHP
+-CakePHP
 Databases  
-MySQL 
+-MySQL 
 Web Applications
-WordPress
-Zen Cart
-Linux Administration
+-WordPress
+-Zen Cart
+-Linux Administration
 Security
-Metasploit
-Manual Security Testing 
-Wireshark
-Burp Suite
+-Metasploit
+-Manual Security Testing 
+-Wireshark
+-Burp Suite
 
 ㅡ
 **EXPERIENCE**
 
 **SiteLock / Web Security Research Analyst**
-November 2015 - PRESENT,  Scottsdale, AZ
+November 2015 - PRESENT,  Scottsdale, AZ  
 As a Web Security Research Analyst I am tasked with reviewing files to determine valid code from malicious code and properly categorize the functions of the malicious code. Through this position I have accomplished the following:
 Learned basics of PERL on the job.
 Wrote scripts as needed in PERL to increase productivity
