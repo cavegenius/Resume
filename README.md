@@ -4,29 +4,30 @@
 **SKILLS**
 
 Programming Languages/Technologies  
--PHP(5. PHP and PHP with OOP (more than 5 year of experience) 
--JavaScript (more than 2 years of experience) 
--HTML 
--MYSQL  
--CSS   
--OOP
--MVC (Model View Controller) 
--SVN, GIT
+- PHP(5. PHP and PHP with OOP (more than 5 year of experience) 
+- JavaScript (more than 2 years of experience) 
+- HTML 
+- MYSQL  
+- CSS   
+- OOP
+- MVC (Model View Controller) 
+- SVN, GIT
 
 Frameworks  
--CakePHP
+- CakePHP
 
 Databases  
--MySQL 
+- MySQL
+
 Web Applications
--WordPress
--Zen Cart
--Linux Administration  
+- WordPress
+- Zen Cart
+- Linux Administration  
 Security
--Metasploit
--Manual Security Testing 
--Wireshark
--Burp Suite
+- Metasploit
+- Manual Security Testing
+- Wireshark
+- Burp Suite
 
 ㅡ
 **EXPERIENCE**
