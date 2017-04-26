@@ -11,9 +11,11 @@ Programming Languages/Technologies
 -CSS   
 -OOP
 -MVC (Model View Controller) 
--SVN, GIT  
-Frameworks 
--CakePHP  
+-SVN, GIT
+
+Frameworks  
+-CakePHP
+
 Databases  
 -MySQL 
 Web Applications
