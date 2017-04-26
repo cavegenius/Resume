@@ -22,7 +22,8 @@ Databases
 Web Applications
 - WordPress
 - Zen Cart
-- Linux Administration  
+- Linux Administration
+
 Security
 - Metasploit
 - Manual Security Testing
