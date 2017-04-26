@@ -1,6 +1,4 @@
 # Matthew “Wyatt” Morgan
-480.326.2532  
-wyatt@wmgraphicdesign.com
 
 ㅡ
 **SKILLS**
