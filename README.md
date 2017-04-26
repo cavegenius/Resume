@@ -52,6 +52,7 @@ As a Web Security Analyst I was tasked with manually cleaning websites of any ma
 **GoDaddy.com / Advanced Technical SupportAdvanced Technical Support**
 December 2005- May 2015, Gilbert, AZ  
 In my time at GoDaddy.com I was in multiple positions including Inbound Support, Inbound Hosting Support, Online Chat Support, Online Email Support and Advanced Technical Support. Through these positions I provided high level support to customers with accuracy and efficiency all while striving to continue learning and growing my own knowledge.  
+  
 ㅡ
 **EDUCATION**
 
@@ -61,6 +62,7 @@ High-Tech Institute/Anthem College / Web Development/Graphic Design
 2005 - 2006, Phoenix, AZ  
 East Valley Institute of Technology / Web Design  
 2003 - 2005, Mesa, AZ  
+  
 ㅡ
 **CERTIFICATIONS**
 
