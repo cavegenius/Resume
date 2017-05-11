@@ -11,8 +11,7 @@ GWAPT: Giac Web Application Penetration Tester
 
 **SiteLock / Web Security Research Analyst**  
 November 2015 - PRESENT,  Scottsdale, AZ  
-As a Web Security Research Analyst I am tasked with reviewing files to determine valid code from malicious code and properly categorize the functions of the malicious code. Through this position I have accomplished the following:  
-- Learned basics of PERL on the job.  
+As a Web Security Research Analyst I review files to determine valid code from malicious code and properly categorize the functions of the malicious code. Through this position I have accomplished the following:   
 - Wrote scripts as needed in PERL to increase productivity  
 - Managed a very large queue of files by creating new tools and processes to manage the queue effectively and efficiently.  
 - Wrote queries to grab data as needed from a large dataset.  
@@ -25,7 +24,7 @@ As a Web Security Research Analyst I am tasked with reviewing files to determine
   
 **SiteLock / Web Security Analyst**  
 May 2015 - November 215, Scottsdale, AZ  
-As a Web Security Analyst I was tasked with manually cleaning websites of any malware. This required manually searching for malware using linux commands and problem solving skills in order to find the source of the malicious behaviour.  In this position I also created tools to efficiently remove spam files from customers websites. I was also responsible for configuring the web application firewall for customers and troubleshooting any issues with the firewall.  
+As a Web Security Analyst I manually cleaned websites of any malware. This required manually searching for malware using linux commands and problem solving skills in order to find the source of the malicious behaviour.  In this position I also created tools to efficiently remove spam files from customers websites. I was also responsible for configuring the web application firewall for customers and troubleshooting any issues with the firewall.  
 
 **GoDaddy.com / Advanced Technical SupportAdvanced Technical Support**  
 December 2005- May 2015, Gilbert, AZ  
