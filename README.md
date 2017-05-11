@@ -1,34 +1,10 @@
 # Matthew “Wyatt” Morgan
 
 ㅡ
-**SKILLS**
+**CERTIFICATIONS**
 
-Programming Languages/Technologies  
-- PHP(5. PHP and PHP with OOP (more than 5 year of experience) 
-- JavaScript (more than 2 years of experience) 
-- HTML 
-- MYSQL  
-- CSS   
-- OOP
-- MVC (Model View Controller) 
-- SVN, GIT
-
-Frameworks  
-- CakePHP
-
-Databases  
-- MySQL
-
-Web Applications
-- WordPress
-- Zen Cart
-- Linux Administration
-
-Security
-- Metasploit
-- Manual Security Testing
-- Wireshark
-- Burp Suite
+Zend Certified PHP 5.3 Engineer   
+GWAPT: Giac Web Application Penetration Tester
 
 ㅡ
 **EXPERIENCE**
@@ -66,8 +42,31 @@ East Valley Institute of Technology / Web Design
 2003 - 2005, Mesa, AZ  
   
 ㅡ
-**CERTIFICATIONS**
+**SKILLS**
 
-Zend Certified PHP 5.3 Engineer   
-GWAPT: Giac Web Application Penetration Tester
+Programming Languages/Technologies  
+- PHP(5. PHP and PHP with OOP (more than 5 year of experience) 
+- JavaScript (more than 2 years of experience) 
+- HTML 
+- MYSQL  
+- CSS   
+- OOP
+- MVC (Model View Controller) 
+- SVN, GIT
 
+Frameworks  
+- CakePHP
+
+Databases  
+- MySQL
+
+Web Applications
+- WordPress
+- Zen Cart
+- Linux Administration
+
+Security
+- Metasploit
+- Manual Security Testing
+- Wireshark
+- Burp Suite
