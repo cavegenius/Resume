@@ -58,26 +58,21 @@ East Valley Institute of Technology / Web Design
 Programming Languages/Technologies  
 - PHP(5. PHP and PHP with OOP (more than 5 year of experience) 
 - JavaScript (more than 2 years of experience) 
+- Ruby (Basic experience)
 - HTML 
-- MYSQL  
 - CSS   
 - OOP
-- MVC (Model View Controller) 
-- SVN, GIT
+- Linux (Comfortable at the Command Line)
+- MVC
+- GIT
 
 Frameworks  
 - CakePHP
+- Laravel
 
 Databases  
 - MySQL
 
 Web Applications
 - WordPress
-- Zen Cart
-- Linux Administration
 
-Security
-- Metasploit
-- Manual Security Testing
-- Wireshark
-- Burp Suite
