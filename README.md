@@ -9,8 +9,20 @@ GWAPT: Giac Web Application Penetration Tester
 ㅡ
 **EXPERIENCE**
 
+**SiteLock / Front End Software Engineer**  
+June 2018 - PRESENT,  Jacksonville, Fl
+As a Front End Engineer I used PHP and Javascript to create interactive User Interfaces with an emphasis on user experience. I was responsible for interacting with the Back-End API and handling the return data to create the user interface for our suite of products and applications.
+
+**SiteLock / QA Engineer**  
+June 2017 - June 2018,  Jacksonville, Fl  
+As a Software in QA I was responsible for testing the entire suite of applications from end to end and creating the QA processes from the ground up. I also was responsible for starting automated testing processes. 
+- Created end to end test plans for the companys suite of applications and products.
+- As the first QA engineer I had to Design and create the testing processes and procedures to be used by QA to follow.
+- Tested individual cases on a regular basis as the developers completed tickets.
+- Created a suite of automated tests for the applications using Katalon Studio
+
 **SiteLock / Web Security Research Analyst**  
-November 2015 - PRESENT,  Scottsdale, AZ  
+November 2015 - June 2017,  Scottsdale, AZ  
 As a Web Security Research Analyst I review files to determine valid code from malicious code and properly categorize the functions of the malicious code. Through this position I have accomplished the following:   
 - Wrote scripts as needed in PERL to increase productivity  
 - Managed a very large queue of files by creating new tools and processes to manage the queue effectively and efficiently.  
