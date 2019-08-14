@@ -56,7 +56,7 @@ East Valley Institute of Technology / Web Design
 **SKILLS**
 
 Programming Languages/Technologies  
-- PHP(5. PHP and PHP with OOP (more than 5 year of experience) 
+- PHP(PHP and PHP with OOP (more than 5 year of experience) 
 - JavaScript (more than 2 years of experience) 
 - Ruby (Basic experience)
 - HTML 
