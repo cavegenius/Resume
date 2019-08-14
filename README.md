@@ -17,7 +17,7 @@ As a Front End Engineer I used PHP and Javascript to create interactive User Int
 June 2017 - June 2018,  Jacksonville, Fl  
 As a Software in QA I was responsible for testing the entire suite of applications from end to end and creating the QA processes from the ground up. I also was responsible for starting automated testing processes. 
 - Created end to end test plans for the companys suite of applications and products.
-- As the first QA engineer I had to Design and create the testing processes and procedures to be used by QA to follow.
+- Designed and created the testing processes and procedures which went on to be adopted by the whole QA team.
 - Tested individual cases on a regular basis as the developers completed tickets.
 - Created a suite of automated tests for the applications using Katalon Studio
 
